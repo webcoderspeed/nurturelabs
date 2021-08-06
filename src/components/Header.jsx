@@ -8,7 +8,7 @@ const Header = () => {
   return (
     <div
     style={{background: '#3F0E40'}}
-    className='flex justify-between px-4 py-6 h-18 items-center text-white'>
+    className='flex justify-between px-20 py-6 items-center text-white'>
       <h1 className='text-2xl font-bold uppercase'>Keywords</h1>
       <form className='flex justify-center items-center gap-5'>
         <input style={{width:'20rem'}}

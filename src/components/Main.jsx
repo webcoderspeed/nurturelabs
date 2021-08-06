@@ -27,6 +27,3 @@ const Main = () => {
 }
 
 export default Main
-
-
-npm uninstall @material-ui/core @material-ui/data-grid @testing-library/jest-dom @testing-library/react @testing-library/user-event web-vitals

@@ -1,4 +1,5 @@
 {
+  "homepage": "http://webcoderspeed.github.io/nurturelabs",
   "name": "nurturelabs",
   "version": "0.1.0",
   "private": true,
@@ -15,7 +16,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -37,6 +40,7 @@
   },
   "devDependencies": {
     "autoprefixer": "^10.3.1",
+    "gh-pages": "^3.2.3",
     "postcss": "^8.3.6",
     "tailwindcss": "^2.2.7"
   }
