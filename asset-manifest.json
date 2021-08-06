@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/nurturelabs/static/css/main.d56b8d09.chunk.css",
+    "main.js": "/nurturelabs/static/js/main.2d266cc9.chunk.js",
+    "main.js.map": "/nurturelabs/static/js/main.2d266cc9.chunk.js.map",
+    "runtime-main.js": "/nurturelabs/static/js/runtime-main.4441da88.js",
+    "runtime-main.js.map": "/nurturelabs/static/js/runtime-main.4441da88.js.map",
+    "static/js/2.c5132987.chunk.js": "/nurturelabs/static/js/2.c5132987.chunk.js",
+    "static/js/2.c5132987.chunk.js.map": "/nurturelabs/static/js/2.c5132987.chunk.js.map",
+    "index.html": "/nurturelabs/index.html",
+    "static/css/main.d56b8d09.chunk.css.map": "/nurturelabs/static/css/main.d56b8d09.chunk.css.map",
+    "static/js/2.c5132987.chunk.js.LICENSE.txt": "/nurturelabs/static/js/2.c5132987.chunk.js.LICENSE.txt",
+    "static/media/Logo.54d0fe5b.svg": "/nurturelabs/static/media/Logo.54d0fe5b.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4441da88.js",
+    "static/js/2.c5132987.chunk.js",
+    "static/css/main.d56b8d09.chunk.css",
+    "static/js/main.2d266cc9.chunk.js"
+  ]
+}
